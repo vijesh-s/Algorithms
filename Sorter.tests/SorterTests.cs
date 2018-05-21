@@ -2,8 +2,9 @@
 using System.Linq;
 using Xunit;
 
-namespace Sorter.tests
+namespace Sorter.Test
 {
+    
     public class SorterTests
     {
         [Fact]
